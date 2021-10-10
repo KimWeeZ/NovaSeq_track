@@ -1,5 +1,5 @@
 track  H3K27ac_AITS_rep1
-bigDataUrl https://github.com/KimWeeZ/NovaSeq_track/raw/main/fastq_bigwig_NovaSeq/Human_1390G3_CnTac_rep1_AITS_sorted_rmDup.bam.bw
+bigDataUrl https://drive.google.com/file/d/1f9NFUyb01CIB59Rqp71BLkFA-7g8FDvK/view?usp=sharing
 shortLabel H3K27ac_check
 longLabel H3K27ac enrichment with CnT
 type bigWig
