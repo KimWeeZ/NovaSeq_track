@@ -1,5 +1,5 @@
 track  H3K27ac_AITS_rep1
-bigDataUrl https://drive.google.com/file/d/1f9NFUyb01CIB59Rqp71BLkFA-7g8FDvK/view?usp=sharing
+bigDataUrl https://1drv.ms/u/s!AhjrhSAnGKcXarlJXB-UOkyl-KY?e=xeKSd0
 shortLabel H3K27ac_check
 longLabel H3K27ac enrichment with CnT
 type bigWig
