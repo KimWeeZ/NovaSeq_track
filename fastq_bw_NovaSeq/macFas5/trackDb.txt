@@ -1,0 +1,29 @@
+track  Macaque_ATAC_15XRi_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Macaque_15XRi_ATAC_rep1_AITS.sorted.rmDup.minQS.bam.bw
+shortLabel Macaque_ATAC_15XRi_AITS
+longLabel macfas5 iPSC ATAC from AITS
+type bigWig
+visibility full
+
+track  Macaque_CnTac_15XRi_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Macaque_15XRi_CnTac_rep1_AITS.sorted.rmDup.minQS.bam.bw
+shortLabel Macaque_CnTac_15XRi_AITS
+longLabel macfas5 iPSC CnTac from AITS
+type bigWig
+visibility full
+
+track  Macaque_CnTme_15XRi_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Macaque_15XRi_CnTme_rep1_AITS.sorted.rmDup.minQS.bam.bw
+shortLabel Macaque_CnTme_15XRi_AITS
+longLabel macfas5 iPSC CnTme from AITS
+type bigWig
+visibility full
+
+track  Macaque_CnTno_15XRi_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Macaque_15XRi_CnTno_rep1_AITS.sorted.rmDup.minQS.bam.bw
+shortLabel Macaque_CnTno_15XRi_AITS
+longLabel macfas5 iPSC CnTno from AITS
+type bigWig
+visibility full
+
+

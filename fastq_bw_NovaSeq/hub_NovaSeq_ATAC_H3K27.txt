@@ -1,0 +1,5 @@
+hub bw_NovaSeq_v1
+shortLabel H3K27ac_check
+longLabel H3K27ac enrichment with CnT 
+genomesFile genomes_Novaseq_ATAC_H3K27.txt
+email qinweiqztf7@gmail.com

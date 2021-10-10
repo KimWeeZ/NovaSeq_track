@@ -1,0 +1,7 @@
+track  H3K27ac_AITS_rep1
+bigDataUrl https://github.com/KimWeeZ/NovaSeq_track/raw/main/fastq_bigwig_NovaSeq/genomes_Novaseq_ATAC_H3K27.txt
+shortLabel H3K27ac_check
+longLabel H3K27ac enrichment with CnT
+type bigWig
+visibility full
+

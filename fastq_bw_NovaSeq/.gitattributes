@@ -1,0 +1,2 @@
+Human_1390G3_CnTac_rep1_AITS_sorted_rmDup.bam.bw filter=lfs diff=lfs merge=lfs -text
+*.bw filter=lfs diff=lfs merge=lfs -text

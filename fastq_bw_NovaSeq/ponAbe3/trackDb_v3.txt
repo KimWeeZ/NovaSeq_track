@@ -1,0 +1,13 @@
+track  v3_ATAC_EmiAK3_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Orang_EmiAK3_AITS_ATAC_rep1-2_sorted_rmDup.bam.bw
+shortLabel v3_ATAC_EmiAK3_AITS
+longLabel ponAbe3 iPSC ATAC from AITS
+type bigWig
+visibility full
+
+track  v3_ATAC_TobaK_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Orang_TobaK_AITS_ATAC_rep1-2_sorted_rmDup.bam.bw
+shortLabel v3_ATAC_TobaK_AITS
+longLabel ponAbe3 iPSC ATAC from AITS
+type bigWig
+visibility full

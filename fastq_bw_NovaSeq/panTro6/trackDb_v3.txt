@@ -1,0 +1,13 @@
+track  v3_ATAC_Mari4_AK02N
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Chimp_Mari4_AK02N_ATAC_rep1-2_sorted_rmDup.bam.bw
+shortLabel v3_ATAC_Mari4_AK02N
+longLabel panTro6 iPSC ATAC from Mari4
+type bigWig
+visibility full
+
+track  v3_ATAC_PiaN_AK02N
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Chimp_PiaN_AK02N_ATAC_rep1-2_sorted_rmDup.bam.bw
+shortLabel v3_ATAC_PiaN_AK02N
+longLabel panTro6 iPSC ATAC from PiaN
+type bigWig
+visibility full

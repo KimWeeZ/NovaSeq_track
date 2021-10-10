@@ -1,0 +1,55 @@
+track  Orangutan_ATAC_EmiAK3_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Orang_EmiAK3_ATAC_rep1_AITS.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Orangutan_ATAC_EmiAK3_AITS
+longLabel ponAbe3 iPSC ATAC from AITS
+type bigWig
+visibility full
+
+track  Orangutan_ATAC_TobaK_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Orang_TobaK_ATAC_rep1_AITS.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Orangutan_ATAC_TobaK_AITS
+longLabel ponAbe3 iPSC ATAC from AITS
+type bigWig
+visibility full
+
+track  Orangutan_CnTac_EmiAK3_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Orang_EmiAK3_CnTac_rep1_AITS.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Orangutan_CnTac_EmiAK3_AITS
+longLabel ponAbe3 iPSC CnTac from AITS
+type bigWig
+visibility full
+
+track  Orangutan_CnTac_TobaK_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Orang_TobaK_CnTac_rep1_AITS.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Orangutan_CnTac_TobaK_AITS
+longLabel ponAbe3 iPSC CnTac from AITS
+type bigWig
+visibility full
+
+track  Orangutan_CnTme_EmiAK3_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Orang_EmiAK3_CnTme_rep1_AITS.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Orangutan_CnTme_EmiAK3_AITS
+longLabel ponAbe3 iPSC CnTme from AITS
+type bigWig
+visibility full
+
+track  Orangutan_CnTme_TobaK_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Orang_TobaK_CnTme_rep1_AITS.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Orangutan_CnTme_TobaK_AITS
+longLabel ponAbe3 iPSC CnTme from AITS
+type bigWig
+visibility full
+
+track  Orangutan_CnTno_EmiAK3_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Orang_EmiAK3_CnTno_rep1_AITS.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Orangutan_CnTno_EmiAK3_AITS
+longLabel ponAbe3 iPSC CnTno from AITS
+type bigWig
+visibility full
+
+track  Orangutan_CnTno_TobaK_AITS
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Orang_TobaK_CnTno_rep1_AITS.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Orangutan_CnTno_TobaK_AITS
+longLabel ponAbe3 iPSC CnTno from AITS
+type bigWig
+visibility full

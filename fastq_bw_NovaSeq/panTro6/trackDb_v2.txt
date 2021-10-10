@@ -1,0 +1,57 @@
+track  Chimp_ATAC_Mari4_AK02N
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Chimp_Mari4_ATAC_rep1_AK02N.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Chimp_ATAC_Mari4_AK02N
+longLabel panTro6 iPSC ATAC from Mari4
+type bigWig
+visibility full
+
+track  Chimp_ATAC_PiaN_AK02N
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Chimp_PiaN_ATAC_rep1_AK02N.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Chimp_ATAC_PiaN_AK02N
+longLabel panTro6 iPSC ATAC from PiaN
+type bigWig
+visibility full
+
+track  Chimp_CnTac_Maris_AK02N
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Chimp_Mari4_CnTac_rep1_AK02N.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Chimp_CnTac_Mari4_AK02N
+longLabel panTro6 iPSC CnTac from Mari4
+type bigWig
+visibility full
+
+track  Chimp_CnTac_PiaN_AK02N
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Chimp_PiaN_CnTac_rep1_AK02N.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Chimp_CnTac_PiaN_AK02N
+longLabel panTro6 iPSC CnTac from PiaN
+type bigWig
+visibility full
+
+track  Chimp_CnTme_Maris_AK02N
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Chimp_Mari4_CnTme_rep1_AK02N.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Chimp_CnTme_Mari4_AK02N
+longLabel panTro6 iPSC CnTme from Mari4
+type bigWig
+visibility full
+
+track  Chimp_CnTme_PiaN_AK02N
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Chimp_PiaN_CnTme_rep1_AK02N.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Chimp_CnTme_PiaN_AK02N
+longLabel panTro6 iPSC CnTme from PiaN
+type bigWig
+visibility full
+
+track  Chimp_CnTno_Maris_AK02N
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Chimp_Mari4_CnTno_rep1_AK02N.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Chimp_CnTno_Mari4_AK02N
+longLabel panTro6 iPSC CnTno from Mari4
+type bigWig
+visibility full
+
+track  Chimp_CnTno_PiaN_AK02N
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Chimp_PiaN_CnTno_rep1_AK02N.sorted_rmDup_minQS_v2.bam.bw
+shortLabel Chimp_CnTno_PiaN_AK02N
+longLabel panTro6 iPSC CnTno from PiaN
+type bigWig
+visibility full
+
+
