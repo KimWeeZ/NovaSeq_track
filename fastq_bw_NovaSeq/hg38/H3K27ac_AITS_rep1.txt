@@ -1,5 +1,5 @@
 track  H3K27ac_AITS_rep1
-bigDataUrl https://1drv.ms/u/s!AhjrhSAnGKcXarlJXB-UOkyl-KY?e=xeKSd0
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTac_rep1_AITS_sorted_rmDup.bam.bw
 shortLabel H3K27ac_check
 longLabel H3K27ac enrichment with CnT
 type bigWig
