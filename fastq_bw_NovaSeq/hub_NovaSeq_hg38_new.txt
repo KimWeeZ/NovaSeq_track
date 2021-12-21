@@ -1,0 +1,5 @@
+hub NovaSeq_hg38
+shortLabel hg38_ATAC_H3K27
+longLabel hg38_ATAC_H3K27 with CnT 
+genomesFile genomes_Novaseq_hg38_new.txt
+email qinweiqztf7@gmail.com

@@ -1,0 +1,335 @@
+track  ATAC_AITS_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_ATAC_rep1_AITS.ATAC.bw
+shortLabel ATAC_AITS_rep1
+longLabel ATAC_AITS_rep1_hg38
+type bigWig
+visibility full
+
+track  ATAC_AITS_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_ATAC_rep2_AITS.ATAC.bw
+shortLabel ATAC_AITS_rep2
+longLabel ATAC_AITS_rep2_hg38
+type bigWig
+visibility full
+
+track  ATAC_AITS_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_ATAC_rep3_AITS.ATAC.bw
+shortLabel ATAC_AITS_rep3
+longLabel ATAC_AITS_rep3_hg38
+type bigWig
+visibility full
+
+track  ATAC_AK03N_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_ATAC_rep1_AK03N.ATAC.bw
+shortLabel ATAC_AK03N_rep1
+longLabel ATAC_AK03N_rep1_hg38
+type bigWig
+visibility full
+
+track  ATAC_AK03N_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_ATAC_rep2_AK03N.ATAC.bw
+shortLabel ATAC_AK03N_rep2
+longLabel ATAC_AK03N_rep2_hg38
+type bigWig
+visibility full
+
+track  ATAC_AK03N_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_ATAC_rep3_AK03N.ATAC.bw
+shortLabel ATAC_AK03N_rep3
+longLabel ATAC_AK03N_rep3_hg38
+type bigWig
+visibility full
+
+track  ATAC_mTeSRPlus_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_ATAC_rep1_mTeSRPlus.ATAC.bw
+shortLabel ATAC_mTeSRPlus_rep1
+longLabel ATAC_mTeSRPlus_rep1_hg38
+type bigWig
+visibility full
+
+track  ATAC_mTeSRPlus_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_ATAC_rep2_mTeSRPlus.ATAC.bw
+shortLabel ATAC_mTeSRPlus_rep2
+longLabel ATAC_mTeSRPlus_rep2_hg38
+type bigWig
+visibility full
+
+track  ATAC_mTeSRPlus_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_ATAC_rep3_mTeSRPlus.ATAC.bw
+shortLabel ATAC_mTeSRPlus_rep3
+longLabel ATAC_mTeSRPlus_rep3_hg38
+type bigWig
+visibility full
+
+track  ATAC_WTC_mTeSRPlus_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_ATAC_rep1_mTeSRPlus.ATAC.bw
+shortLabel ATAC_WTC_mTeSRPlus_rep1
+longLabel ATAC_WTC_mTeSRPlus_rep1_hg38
+type bigWig
+visibility full
+
+track  ATAC_WTC_mTeSRPlus_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_ATAC_rep2_mTeSRPlus.ATAC.bw
+shortLabel ATAC_WTC_mTeSRPlus_rep2
+longLabel ATAC_WTC_mTeSRPlus_rep2_hg38
+type bigWig
+visibility full
+
+track  ATAC_WTC_mTeSRPlus_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_ATAC_rep3_mTeSRPlus.ATAC.bw
+shortLabel ATAC_WTC_mTeSRPlus_rep3
+longLabel ATAC_WTC_mTeSRPlus_rep3_hg38
+type bigWig
+visibility full
+
+track  CnTac_AITS_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTac_rep1_AITS.H3K27ac.bw
+shortLabel CnTac_AITS_rep1
+longLabel CnTac_AITS_rep1_hg38
+type bigWig
+visibility full
+
+track  CnTac_AITS_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTac_rep2_AITS.H3K27ac.bw
+shortLabel CnTac_AITS_rep2
+longLabel CnTac_AITS_rep2_hg38
+type bigWig
+visibility full
+
+track  CnTac_AITS_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTac_rep3_AITS.H3K27ac.bw
+shortLabel CnTac_AITS_rep3
+longLabel CnTac_AITS_rep3_hg38
+type bigWig
+visibility full
+
+track  CnTac_AK03N_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTac_rep1_AK03N.H3K27ac.bw
+shortLabel CnTac_AK03N_rep1
+longLabel CnTac_AK03N_rep1_hg38
+type bigWig
+visibility full
+
+track  CnTac_AK03N_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTac_rep2_AK03N.H3K27ac.bw
+shortLabel CnTac_AK03N_rep2
+longLabel CnTac_AK03N_rep2_hg38
+type bigWig
+visibility full
+
+track  CnTac_AK03N_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTac_rep3_AK03N.H3K27ac.bw
+shortLabel CnTac_AK03N_rep3
+longLabel CnTac_AK03N_rep3_hg38
+type bigWig
+visibility full
+
+track  CnTac_mTeSRPlus_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTac_rep1_mTeSRPlus.H3K27ac.bw
+shortLabel CnTac_mTeSRPlus_rep1
+longLabel CnTac_mTeSRPlus_rep1_hg38
+type bigWig
+visibility full
+
+track  CnTac_mTeSRPlus_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTac_rep2_mTeSRPlus.H3K27ac.bw
+shortLabel CnTac_mTeSRPlus_rep2
+longLabel CnTac_mTeSRPlus_rep2_hg38
+type bigWig
+visibility full
+
+track  CnTac_mTeSRPlus_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTac_rep3_mTeSRPlus.H3K27ac.bw
+shortLabel CnTac_mTeSRPlus_rep3
+longLabel CnTac_mTeSRPlus_rep3_hg38
+type bigWig
+visibility full
+
+track  CnTac_WTC_mTeSRPlus_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnTac_rep1_mTeSRPlus.H3K27ac.bw
+shortLabel CnTac_WTC_mTeSRPlus_rep1
+longLabel CnTac_WTC_mTeSRPlus_rep1_hg38
+type bigWig
+visibility full
+
+track  CnTac_WTC_mTeSRPlus_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnTac_rep2_mTeSRPlus.H3K27ac.bw
+shortLabel CnTac_WTC_mTeSRPlus_rep2
+longLabel CnTac_WTC_mTeSRPlus_rep2_hg38
+type bigWig
+visibility full
+
+track  CnTac_WTC_mTeSRPlus_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnTac_rep3_mTeSRPlus.H3K27ac.bw
+shortLabel CnTac_WTC_mTeSRPlus_rep3
+longLabel CnTac_WTC_mTeSRPlus_rep3_hg38
+type bigWig
+visibility full
+
+track  CnTme_AITS_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTme_rep1_AITS.H3K27me3.bw
+shortLabel CnTme_AITS_rep1
+longLabel CnTme_AITS_rep1_hg38
+type bigWig
+visibility full
+
+track  CnTme_AITS_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTme_rep2_AITS.H3K27me3.bw
+shortLabel CnTme_AITS_rep2
+longLabel CnTme_AITS_rep2_hg38
+type bigWig
+visibility full
+
+track  CnTme_AITS_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTme_rep3_AITS.H3K27me3.bw
+shortLabel CnTme_AITS_rep3
+longLabel CnTme_AITS_rep3_hg38
+type bigWig
+visibility full
+
+track  CnTme_AK03N_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTme_rep1_AK03N.H3K27me3.bw
+shortLabel CnTme_AK03N_rep1
+longLabel CnTme_AK03N_rep1_hg38
+type bigWig
+visibility full
+
+track  CnTme_AK03N_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTme_rep2_AK03N.H3K27me3.bw
+shortLabel CnTme_AK03N_rep2
+longLabel CnTme_AK03N_rep2_hg38
+type bigWig
+visibility full
+
+track  CnTme_AK03N_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTme_rep3_AK03N.H3K27me3.bw
+shortLabel CnTme_AK03N_rep3
+longLabel CnTme_AK03N_rep3_hg38
+type bigWig
+visibility full
+
+track  CnTme_mTeSRPlus_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTme_rep1_mTeSRPlus.H3K27me3.bw
+shortLabel CnTme_mTeSRPlus_rep1
+longLabel CnTme_mTeSRPlus_rep1_hg38
+type bigWig
+visibility full
+
+track  CnTme_mTeSRPlus_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTme_rep2_mTeSRPlus.H3K27me3.bw
+shortLabel CnTme_mTeSRPlus_rep2
+longLabel CnTme_mTeSRPlus_rep2_hg38
+type bigWig
+visibility full
+
+track  CnTme_mTeSRPlus_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTme_rep3_mTeSRPlus.H3K27me3.bw
+shortLabel CnTme_mTeSRPlus_rep3
+longLabel CnTme_mTeSRPlus_rep3_hg38
+type bigWig
+visibility full
+
+track  CnTme_WTC_mTeSRPlus_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnTme_rep1_mTeSRPlus.H3K27me3.bw
+shortLabel CnTme_WTC_mTeSRPlus_rep1
+longLabel CnTme_WTC_mTeSRPlus_rep1_hg38
+type bigWig
+visibility full
+
+track  CnTme_WTC_mTeSRPlus_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnTme_rep2_mTeSRPlus.H3K27me3.bw
+shortLabel CnTme_WTC_mTeSRPlus_rep2
+longLabel CnTme_WTC_mTeSRPlus_rep2_hg38
+type bigWig
+visibility full
+
+track  CnTme_WTC_mTeSRPlus_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnTme_rep3_mTeSRPlus.H3K27me3.bw
+shortLabel CnTme_WTC_mTeSRPlus_rep3
+longLabel CnTme_WTC_mTeSRPlus_rep3_hg38
+type bigWig
+visibility full
+
+track  CnTno_AITS_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTno_rep1_AITS.CnTno.bw
+shortLabel CnTno_AITS_rep1
+longLabel CnTno_AITS_rep1_hg38
+type bigWig
+visibility full
+
+track  CnTno_AITS_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTno_rep2_AITS.CnTno.bw
+shortLabel CnTno_AITS_rep2
+longLabel CnTno_AITS_rep2_hg38
+type bigWig
+visibility full
+
+track  CnTno_AITS_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTno_rep3_AITS.CnTno.bw
+shortLabel CnTno_AITS_rep3
+longLabel CnTno_AITS_rep3_hg38
+type bigWig
+visibility full
+
+track  CnTno_AK03N_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTno_rep1_AK03N.CnTno.bw
+shortLabel CnTno_AK03N_rep1
+longLabel CnTno_AK03N_rep1_hg38
+type bigWig
+visibility full
+
+track  CnTno_AK03N_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTno_rep2_AK03N.CnTno.bw
+shortLabel CnTno_AK03N_rep2
+longLabel CnTno_AK03N_rep2_hg38
+type bigWig
+visibility full
+
+track  CnTno_AK03N_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTno_rep3_AK03N.CnTno.bw
+shortLabel CnTno_AK03N_rep3
+longLabel CnTno_AK03N_rep3_hg38
+type bigWig
+visibility full
+
+track  CnTno_mTeSRPlus_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTno_rep1_mTeSRPlus.CnTno.bw
+shortLabel CnTno_mTeSRPlus_rep1
+longLabel CnTno_mTeSRPlus_rep1_hg38
+type bigWig
+visibility full
+
+track  CnTno_mTeSRPlus_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTno_rep2_mTeSRPlus.CnTno.bw
+shortLabel CnTno_mTeSRPlus_rep2
+longLabel CnTno_mTeSRPlus_rep2_hg38
+type bigWig
+visibility full
+
+track  CnTno_mTeSRPlus_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTno_rep3_mTeSRPlus.CnTno.bw
+shortLabel CnTno_mTeSRPlus_rep3
+longLabel CnTno_mTeSRPlus_rep3_hg38
+type bigWig
+visibility full
+
+track  CnTno_WTC_mTeSRPlus_rep1
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnTno_rep1_mTeSRPlus.CnTno.bw
+shortLabel CnTno_WTC_mTeSRPlus_rep1
+longLabel CnTno_WTC_mTeSRPlus_rep1_hg38
+type bigWig
+visibility full
+
+track  CnTno_WTC_mTeSRPlus_rep2
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnTno_rep2_mTeSRPlus.CnTno.bw
+shortLabel CnTno_WTC_mTeSRPlus_rep2
+longLabel CnTno_WTC_mTeSRPlus_rep2_hg38
+type bigWig
+visibility full
+
+track  CnTno_WTC_mTeSRPlus_rep3
+bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnTno_rep3_mTeSRPlus.CnTno.bw
+shortLabel CnTno_WTC_mTeSRPlus_rep3
+longLabel CnTno_WTC_mTeSRPlus_rep3_hg38
+type bigWig
+visibility full
