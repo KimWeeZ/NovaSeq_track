@@ -1,0 +1,2 @@
+genome hg38
+trackDb hg38/Hg38_ATAC_K27_new.txt
