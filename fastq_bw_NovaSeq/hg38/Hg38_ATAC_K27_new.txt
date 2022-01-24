@@ -2,9 +2,10 @@ track  ATAC_AITS_rep1
 bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_ATAC_rep1_AITS.ATAC.bw
 shortLabel ATAC_AITS_rep1
 longLabel ATAC_AITS_rep1_hg38
+maxHeightPixels 100:16:8
+
 type bigWig
 visibility full
-maxHeightPixels 100:16:8
 
 track  ATAC_AITS_rep2
 bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_ATAC_rep2_AITS.ATAC.bw
@@ -18,8 +19,8 @@ track  ATAC_AITS_rep3
 bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_ATAC_rep3_AITS.ATAC.bw
 shortLabel ATAC_AITS_rep3
 longLabel ATAC_AITS_rep3_hg38
-type bigWig
 maxHeightPixels 100:16:8
+type bigWig
 visibility full
 
 track  ATAC_AK03N_rep1
