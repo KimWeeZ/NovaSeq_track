@@ -176,6 +176,7 @@ track  CnTac_WTC_mTeSRPlus_rep1
 bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnTac_rep1_mTeSRPlus.H3K27ac.bw
 shortLabel CnTac_WTC_mTeSRPlus_rep1
 longLabel CnTac_WTC_mTeSRPlus_rep1_hg38
+maxHeightPixels 100:16:8
 type bigWig
 visibility full
 
@@ -327,6 +328,7 @@ track  CnTno_AK03N_rep2
 bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_CnTno_rep2_AK03N.CnTno.bw
 shortLabel CnTno_AK03N_rep2
 longLabel CnTno_AK03N_rep2_hg38
+maxHeightPixels 100:16:8
 type bigWig
 visibility full
 
