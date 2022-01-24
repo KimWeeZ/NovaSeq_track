@@ -3,7 +3,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel ATAC_AITS_rep1
 longLabel ATAC_AITS_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -12,7 +11,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel ATAC_AITS_rep2
 longLabel ATAC_AITS_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -21,7 +19,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel ATAC_AITS_rep3
 longLabel ATAC_AITS_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -30,7 +27,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel ATAC_AK03N_rep1
 longLabel ATAC_AK03N_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -39,7 +35,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel ATAC_AK03N_rep2
 longLabel ATAC_AK03N_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -56,7 +51,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel ATAC_mTeSRPlus_rep1
 longLabel ATAC_mTeSRPlus_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -65,7 +59,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel ATAC_mTeSRPlus_rep2
 longLabel ATAC_mTeSRPlus_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -74,7 +67,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel ATAC_mTeSRPlus_rep3
 longLabel ATAC_mTeSRPlus_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -83,7 +75,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_ATA
 shortLabel ATAC_WTC_mTeSRPlus_rep1
 longLabel ATAC_WTC_mTeSRPlus_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -92,7 +83,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_ATA
 shortLabel ATAC_WTC_mTeSRPlus_rep2
 longLabel ATAC_WTC_mTeSRPlus_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -101,7 +91,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_ATA
 shortLabel ATAC_WTC_mTeSRPlus_rep3
 longLabel ATAC_WTC_mTeSRPlus_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -110,7 +99,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTac_AITS_rep1
 longLabel CnTac_AITS_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -119,7 +107,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTac_AITS_rep2
 longLabel CnTac_AITS_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -128,7 +115,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTac_AITS_rep3
 longLabel CnTac_AITS_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -137,7 +123,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTac_AK03N_rep1
 longLabel CnTac_AK03N_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -146,7 +131,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTac_AK03N_rep2
 longLabel CnTac_AK03N_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -155,7 +139,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTac_AK03N_rep3
 longLabel CnTac_AK03N_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -164,7 +147,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTac_mTeSRPlus_rep1
 longLabel CnTac_mTeSRPlus_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -173,7 +155,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTac_mTeSRPlus_rep2
 longLabel CnTac_mTeSRPlus_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -182,7 +163,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTac_mTeSRPlus_rep3
 longLabel CnTac_mTeSRPlus_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -191,7 +171,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnT
 shortLabel CnTac_WTC_mTeSRPlus_rep1
 longLabel CnTac_WTC_mTeSRPlus_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -200,7 +179,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnT
 shortLabel CnTac_WTC_mTeSRPlus_rep2
 longLabel CnTac_WTC_mTeSRPlus_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -209,7 +187,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnT
 shortLabel CnTac_WTC_mTeSRPlus_rep3
 longLabel CnTac_WTC_mTeSRPlus_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -218,7 +195,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTme_AITS_rep1
 longLabel CnTme_AITS_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -227,7 +203,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTme_AITS_rep2
 longLabel CnTme_AITS_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -236,7 +211,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTme_AITS_rep3
 longLabel CnTme_AITS_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -245,7 +219,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTme_AK03N_rep1
 longLabel CnTme_AK03N_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -254,7 +227,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTme_AK03N_rep2
 longLabel CnTme_AK03N_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -263,7 +235,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTme_AK03N_rep3
 longLabel CnTme_AK03N_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -272,7 +243,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTme_mTeSRPlus_rep1
 longLabel CnTme_mTeSRPlus_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -281,7 +251,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTme_mTeSRPlus_rep2
 longLabel CnTme_mTeSRPlus_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -290,7 +259,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTme_mTeSRPlus_rep3
 longLabel CnTme_mTeSRPlus_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -299,7 +267,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnT
 shortLabel CnTme_WTC_mTeSRPlus_rep1
 longLabel CnTme_WTC_mTeSRPlus_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -308,7 +275,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnT
 shortLabel CnTme_WTC_mTeSRPlus_rep2
 longLabel CnTme_WTC_mTeSRPlus_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -317,7 +283,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnT
 shortLabel CnTme_WTC_mTeSRPlus_rep3
 longLabel CnTme_WTC_mTeSRPlus_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -326,7 +291,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTno_AITS_rep1
 longLabel CnTno_AITS_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -335,7 +299,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTno_AITS_rep2
 longLabel CnTno_AITS_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -344,7 +307,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTno_AITS_rep3
 longLabel CnTno_AITS_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -353,7 +315,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTno_AK03N_rep1
 longLabel CnTno_AK03N_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -362,7 +323,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTno_AK03N_rep2
 longLabel CnTno_AK03N_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -371,7 +331,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTno_AK03N_rep3
 longLabel CnTno_AK03N_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -380,7 +339,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTno_mTeSRPlus_rep1
 longLabel CnTno_mTeSRPlus_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -389,7 +347,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTno_mTeSRPlus_rep2
 longLabel CnTno_mTeSRPlus_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -398,7 +355,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_1390G3_
 shortLabel CnTno_mTeSRPlus_rep3
 longLabel CnTno_mTeSRPlus_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -407,7 +363,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnT
 shortLabel CnTno_WTC_mTeSRPlus_rep1
 longLabel CnTno_WTC_mTeSRPlus_rep1_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -416,7 +371,6 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnT
 shortLabel CnTno_WTC_mTeSRPlus_rep2
 longLabel CnTno_WTC_mTeSRPlus_rep2_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
 
@@ -425,6 +379,5 @@ bigDataUrl https://datahub-553-p58.p.genap.ca/ATAC_H3K27_bw_tracks/Human_WTC_CnT
 shortLabel CnTno_WTC_mTeSRPlus_rep3
 longLabel CnTno_WTC_mTeSRPlus_rep3_hg38
 maxHeightPixels 100:16:8
-autoScale on
 type bigWig
 visibility full
